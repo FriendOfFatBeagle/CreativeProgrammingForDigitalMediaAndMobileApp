@@ -1,3 +1,12 @@
+
+If you are my peer reviewers, and have problems with operation of this work, contact 
+me at email address below.  I finally decide to give up commiting to GitHub due to 
+hours of persistent commit error!  
+
+The code for this repository is obslete.
+I cannot upload the assignment #2 code to github. Tried that for hours!
+Contact me for source code and data for entire application at avtinc2000@gmail.com.
+
 Repository for this project is here:
 https://github.com/FriendOfFatBeagle/CreativeProgrammingForDigitalMediaAndMobileApp 
 I am having problem uploading files to github as of 7/28/2013.
@@ -34,10 +43,6 @@ when running past app samples for the class.
 If you want to run it on Android ( since we are porting from desktop java to Android java), 
 it should generally work, paste these codes into an Android Processing template.
 
-If you are my peer reviewers, and have problems with operation of this work, contact 
-me at email address below.  I finally decide to give up commiting to GitHub due to 
-hours of persistent commit error!  
-Contact me for source code and data for entire application at avtinc2000@gmail.com.
 
 This project is also a partial port (plus additions to meet this class's assignment requirements) 
 of my python class work offered by Rice University at Coursera.org.  It is called "An Introduction 
